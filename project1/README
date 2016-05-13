@@ -1,0 +1,5 @@
+This is a to-do list project.
+In this project, you can add new tasks in your to do list. Also you can edit, delete, show them. 
+You can export them to a text file, and also you can import a a text file.
+There is a status for every task, which you can see before the task. [X] means you have finished. [] means you did not do it yet.
+You can change the status of the task.
